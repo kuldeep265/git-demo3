@@ -1,5 +1,0 @@
-This is my new file in deep branch
-this is my second line 
-this is third line
-new line thirdly added
-this is forth line
